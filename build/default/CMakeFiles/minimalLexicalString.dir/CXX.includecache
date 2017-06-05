@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/aditya/EXTRA/repos/Coding/src/minimalLexicalString.cpp
+iostream
+-
+stack
+-
+bits/stl_algo.h
+-
+

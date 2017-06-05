@@ -1,0 +1,10 @@
+cmake_minimum_required (VERSION 2.6)
+
+project (Coding)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
+FILE(GLOB SRC src/*.cpp)
+foreach(file ${SRC})
+	message("File name is : ${file}")
+	get_filename_component(barename ${file} NAME_WE)
+	add_executable(${barename} ${file})
+endforeach()

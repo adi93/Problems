@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/nQueens.dir/src/nQueens.cpp.o  -o ../bin/nQueens 

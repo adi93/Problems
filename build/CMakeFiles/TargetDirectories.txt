@@ -1,0 +1,6 @@
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/rebuild_cache.dir
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/edit_cache.dir
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/maxSumSubarray.dir
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/minimalLexicalString.dir
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/mod.dir
+/run/media/aditya/EXTRA/repos/Coding/build/CMakeFiles/nQueens.dir

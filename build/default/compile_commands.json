@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/run/media/aditya/EXTRA/repos/Coding/build/default",
+  "command": "/usr/bin/c++      -o CMakeFiles/maxSumSubarray.dir/src/maxSumSubarray.cpp.o -c /run/media/aditya/EXTRA/repos/Coding/src/maxSumSubarray.cpp",
+  "file": "/run/media/aditya/EXTRA/repos/Coding/src/maxSumSubarray.cpp"
+},
+{
+  "directory": "/run/media/aditya/EXTRA/repos/Coding/build/default",
+  "command": "/usr/bin/c++      -o CMakeFiles/minimalLexicalString.dir/src/minimalLexicalString.cpp.o -c /run/media/aditya/EXTRA/repos/Coding/src/minimalLexicalString.cpp",
+  "file": "/run/media/aditya/EXTRA/repos/Coding/src/minimalLexicalString.cpp"
+},
+{
+  "directory": "/run/media/aditya/EXTRA/repos/Coding/build/default",
+  "command": "/usr/bin/c++      -o CMakeFiles/mod.dir/src/mod.cpp.o -c /run/media/aditya/EXTRA/repos/Coding/src/mod.cpp",
+  "file": "/run/media/aditya/EXTRA/repos/Coding/src/mod.cpp"
+},
+{
+  "directory": "/run/media/aditya/EXTRA/repos/Coding/build/default",
+  "command": "/usr/bin/c++      -o CMakeFiles/nQueens.dir/src/nQueens.cpp.o -c /run/media/aditya/EXTRA/repos/Coding/src/nQueens.cpp",
+  "file": "/run/media/aditya/EXTRA/repos/Coding/src/nQueens.cpp"
+}
+]
