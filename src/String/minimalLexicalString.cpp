@@ -10,18 +10,9 @@
 #include <bits/stl_algo.h>
 using namespace std;
 void printStack(stack<char, std::string>& s, bool duplicate = true) {
-	if (duplicate) {
-		stack<char, std::string> temp = s;
-		while (!temp.empty()) {
-			cout << temp.top();
-			temp.pop();
-		}
-		return;
-	} else {
-		while (!s.empty()) {
-			cout << s.top();
-			s.pop();
-		}
+	while (!s.empty()) {
+		cout << s.top();
+		s.pop();
 	}
 }
 void printLexical(stack<char, std::string>&, stack<char, std::string>&);
@@ -36,15 +27,7 @@ int main(int argc, char ** argv) {
 
 	stack<char, std::string> s1(a);
 	stack<char, std::string> s2(b);
-	while (s1.empty()) {
-		cout << "1";
-	}
-	printStack(s1);
-	cout << "\n";
-	printStack(s2);
-	cout << "\nDoing lexical shit...\n";
 	printLexical(s1, s2);
-	cout << "\n";
 	return 0;
 }
 
